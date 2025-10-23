@@ -110,7 +110,7 @@ nav {
     left: 0;
     right: 0;
     bottom: 0;
-    background: linear-gradient(135deg, rgba(15, 76, 117, 0.85), rgba(50, 130, 184, 0.75));
+    background: linear-gradient(135deg, rgba(15, 76, 117, 0.425), rgba(50, 130, 184, 0.375));
 }
 
 .hero-content {
